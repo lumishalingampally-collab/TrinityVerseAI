@@ -755,11 +755,9 @@ Users should refer to authentic religious texts and qualified religious scholars
 
 Developed as a B.Tech Major Project.
 
-## TrinityVerseAI
 
-**A Multilingual Spiritual Conversational Intelligence System**
+#  Output
+<img width="976" height="630" alt="image" src="https://github.com/user-attachments/assets/65389fae-ed8d-4d8d-8918-3e7f0a040976" />
 
-```
+<img width="976" height="840" alt="image" src="https://github.com/user-attachments/assets/054e5fd5-9a55-4198-9b4d-698fa539c1c3" />
 
-**For the screenshots**, create a `screenshots` folder in GitHub and upload your output images there. Then the three `![...]` lines above will automatically display them in your README.
-```
