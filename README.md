@@ -1,10 +1,6 @@
 # TrinityVerseAI
 TrinityVerseAI is a multilingual spiritual conversational AI integrating the Bhagavad Gita, Quran, and Bible with semantic search, LLM-based guidance, emotion detection, multilingual translation, text-to-speech, and contextual audio for personalized spiritual guidance.
-Of course ❤️ Here is a **complete copy-paste-ready `README.md`** for your **TrinityVerseAI** GitHub repository.
 
-Just copy everything inside the box and paste it into `README.md`.
-
-````markdown
 # 🙏 TrinityVerseAI
 ## A Multilingual Spiritual Conversational Intelligence System
 
